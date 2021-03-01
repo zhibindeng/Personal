@@ -73,3 +73,6 @@ Data, Model and Decision  2017
 
 
 ## Working Paper
+1. Guo, Lei; Deng, Zhibin; A new augmented Lagrangian method for MPCCs -- Theoretical and numerical comparison with existing augmented Lagrangian methods, R&R in Mathematics of Oprations Research, 2021.
+2. Lu, Cheng; Deng, Zhibin; Graphic structure based global optimization algorithm for the unit-modulus constrained quadratic optimization, submitted to SIAM Journal on Optimization, 2021. 
+3. Luo, Jian; Fang, Shu-Cherng; Deng, Zhibin; Tian, Ye. Distributionally robust kernel-free support vector regression based on optimal margin distribution, 2020
