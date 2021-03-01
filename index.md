@@ -1,9 +1,14 @@
 ## Zhibin Deng (邓智斌)
 Associate Professor 
+
 School of Economics and Management Sciences, University of Chinese Academy of Sciences
+
 Phone: +86-10-82680681
+
 Office: E. 80 Zhongguancun Rd., Haidian District, Beijing 100190, P.R. China.
+
 Email: zhibindeng@ucas.edu.cn
+
 [Google Scholar](https://scholar.google.com/citations?user=75bsev4AAAAJ&hl=en)
 
 I’m currently an associate professor of the School of Economics and Management at the University of Chinese Academy of Sciences, Beijing. 
