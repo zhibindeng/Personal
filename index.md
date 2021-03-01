@@ -1,10 +1,10 @@
 ## Zhibin Deng (邓智斌)
 
-### Assocciate Professor 
+### Associate Professor 
 ### School of Economics and Management Sciences, University of Chinese Academy of Sciences
 ### Phone: +86-10-82680681
-### Office: 
-### Email: 
+### Office: E. 80 Zhongguancun Rd., Haidian District, Beijing 100190, P.R. China.
+### Email: zhibindeng@ucas.edu.cn
 ### [Google Scholar](https://scholar.google.com/citations?user=75bsev4AAAAJ&hl=en)
 
 I’m currently an associate professor of the School of Economics and Management at the University of Chinese Academy of Sciences, Beijing. I received my Ph.D. from the Industrial and System Engineering (ISE) department at North Carolina State Unversity in Dec 2013. Recently I’m interested in various approaches to making data-driven decisions in the context of revenue management, including dynamic programming and machine learning. My research is also broadly related to mathematical optimization.
