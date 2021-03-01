@@ -1,22 +1,38 @@
 ## Zhibin Deng (邓智斌)
+Associate Professor 
 
-### Associate Professor 
-### School of Economics and Management Sciences, University of Chinese Academy of Sciences
-### Phone: +86-10-82680681
-### Office: E. 80 Zhongguancun Rd., Haidian District, Beijing 100190, P.R. China.
-### Email: zhibindeng@ucas.edu.cn
-### [Google Scholar](https://scholar.google.com/citations?user=75bsev4AAAAJ&hl=en)
+School of Economics and Management Sciences, University of Chinese Academy of Sciences
 
-I’m currently an associate professor of the School of Economics and Management at the University of Chinese Academy of Sciences, Beijing. I received my Ph.D. from the Industrial and System Engineering (ISE) department at North Carolina State Unversity in Dec 2013. Recently I’m interested in various approaches to making data-driven decisions in the context of revenue management, including dynamic programming and machine learning. My research is also broadly related to mathematical optimization.
+Phone: +86-10-82680681
+
+Office: E. 80 Zhongguancun Rd., Haidian District, Beijing 100190, P.R. China.
+
+Email: zhibindeng@ucas.edu.cn
+
+[Google Scholar](https://scholar.google.com/citations?user=75bsev4AAAAJ&hl=en)
+
+I’m currently an associate professor of the School of Economics and Management at the University of Chinese Academy of Sciences, Beijing. 
+
+I received my Ph.D. from the Industrial and System Engineering (ISE) department at North Carolina State Unversity in Dec 2013. 
+
+Recently I’m interested in various approaches to making data-driven decisions in the context of revenue management, including dynamic programming and machine learning.
+
+My research is also broadly related to mathematical optimization.
 
 ## Education
 Ph.D. in Industrial and System Engineering, North Carolina State University, 2013
+
 M.S. in Operations Research, Tsinghua University, 2009
+
 B.S. in Applied Mathematics, Tsinghua University, 2007
 
 ## Teaching
+Food Supply Chain Management 2021
+
 Optimization and Simulation Methods in Finance 2014--2021
+
 Introduction to Operations Research 2018
+
 Data, Model and Decision  2017
 
 ## Grants and Awards
@@ -26,6 +42,7 @@ Data, Model and Decision  2017
 4. 中国科学院大学青年启动基金，二次优化问题的非凸0-1松弛，2016/01-2018/12，5.0万元，已结题，主持.
 
 ## Publication
+1. Lu, Cheng; Deng, Zhibin; A branch-and-bound algorithm for solving max-k-cut problem,C Lu, Journal of Global Optimization, online first, 2021. [Link](https://link.springer.com/article/10.1007/s10898-021-00999-z)
 1. Deng, Zhibin; Fang, Shu-Cherng; Jin, Qingwei; Xing, Wenxun; 	Detecting copositivity of a symmetric matrix by an adaptive ellipsoid-based approximation scheme, European Journal of Operational Research, 229(1):21-28,	2013
 2. Tian, Ye; Fang, Shu-Cherng; Deng, Zhibin; Xing, Wenxun; Computable representation of the cone of nonnegative quadratic forms over a general second-order cone and its application to completely positive programming	, Journal of Industrial and Management Optimization,	9(3):703-721, 2013.
 3. Jin, Qingwei; Tian, Ye; Deng, Zhibin; Fang, Shu-Cherng; Xing, Wenxun; Exact computable representation of some second-order cone constrained quadratic programming problems, Journal of the Operations Research Society of China, 1(1):107-134, 2013.
@@ -53,3 +70,6 @@ Data, Model and Decision  2017
 25. Lu, Cheng; Deng, Zhibin; Zhou, Jing; Guo, Xiaoling; A sensitive-eigenvector based global algorithm for quadratically constrained quadratic programming, Journal of Global Optimization, 73(2):371-388, 2019.
 26. Zhou, Jing; Deng, Zhibin; A low-dimensional SDP relaxation based spatial branch and bound method for nonconvex quadratic programs, Journal of Industrial & Management Optimization, 16(5):2087-2102, 2020.
 27. Deng, Zhibin; Lu, Cheng; Tian, Ye; Luo, Jian; Globally solving extended trust region subproblems with two intersecting cuts, Optimization Letters, 14(3):1855–1867, 2020.
+
+
+## Working Paper
