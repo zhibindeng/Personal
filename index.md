@@ -5,7 +5,7 @@ School of Economics and Management Sciences, University of Chinese Academy of Sc
 
 Phone: +86-10-82680681
 
-Office: E. 80 Zhongguancun Rd., Haidian District, Beijing 100190, P.R. China.
+Office: N509 Zhongguancun South First Rd., Haidian District, Beijing 100190, P.R. China.
 
 Email: zhibindeng@ucas.edu.cn
 
