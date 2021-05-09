@@ -44,7 +44,7 @@ Data, Model and Decision  2017
 
 ## Publication
 1. Guo, Lei; Deng, Zhibin; A new augmented Lagrangian method for MPCCs -- Theoretical and numerical comparison with existing augmented Lagrangian methods, forthcoming in  *Mathematics of Oprations Research*, 2021.
-1. Lu, Cheng; Deng, Zhibin; A branch-and-bound algorithm for solving max-k-cut problem,C Lu, *Journal of Global Optimization*, online first, 2021. [Link](https://link.springer.com/article/10.1007/s10898-021-00999-z)
+1. Lu, Cheng; Deng, Zhibin; A branch-and-bound algorithm for solving max-k-cut problem, *Journal of Global Optimization*, online first, 2021. [Link](https://link.springer.com/article/10.1007/s10898-021-00999-z)
 1. Deng, Zhibin; Fang, Shu-Cherng; Jin, Qingwei; Xing, Wenxun; 	Detecting copositivity of a symmetric matrix by an adaptive ellipsoid-based approximation scheme, *European Journal of Operational Research*, 229(1):21-28,	2013
 2. Tian, Ye; Fang, Shu-Cherng; Deng, Zhibin; Xing, Wenxun; Computable representation of the cone of nonnegative quadratic forms over a general second-order cone and its application to completely positive programming, *Journal of Industrial and Management Optimization*,	9(3):703-721, 2013.
 3. Jin, Qingwei; Tian, Ye; Deng, Zhibin; Fang, Shu-Cherng; Xing, Wenxun; Exact computable representation of some second-order cone constrained quadratic programming problems, *Journal of the Operations Research Society of China*, 1(1):107-134, 2013.
