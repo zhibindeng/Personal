@@ -35,12 +35,16 @@ Introduction to Operations Research 2018
 
 Data, Model and Decision  2017
 
-## Grants and Awards
+## Grants
 1. 国家自然科学基金青年科学项目，11501543，0-1二次约束二次优化问题的非凸二次松弛，2016/01-2018/12，21.2万元，已结题，主持.
 2. 北京市科委重大项目子课题, 中小企业违约风险识别, 2017/01-2018/12, 20.0万元，已结题，主持.
 3. 中国科学院大学青年能力提升项目，网络关键节点挖掘问题，2019/01-2020/12，20.0万元，已结题，主持.
 4. 中国科学院大学院所合作项目，基于非凸松弛的二次优化问题及其应用，2017/01-2018/12, 20.0万元，已结题，主持.
 5. 中国科学院大学青年启动基金，二次优化问题的非凸0-1松弛，2015/01-2016/12，5.0万元，已结题，主持.
+
+## Awards
+1. Best Paper Award of Year 2017, Journal of Global Optimization.
+
 
 ## Publication
 1. Guo, Lei; Deng, Zhibin; A new augmented Lagrangian method for MPCCs -- Theoretical and numerical comparison with existing augmented Lagrangian methods, forthcoming in  *Mathematics of Oprations Research*, 2021.
@@ -77,5 +81,5 @@ Data, Model and Decision  2017
 ## Working Paper
 1. Lu, Cheng; Deng, Zhibin; Graphic structure based global optimization algorithm for the unit-modulus constrained quadratic optimization, submitted to *SIAM Journal on Optimization*, 2021. 
 2. Luo, Jian; Fang, Shu-Cherng; Deng, Zhibin; Tian, Ye. Distributionally robust kernel-free support vector regression based on optimal margin distribution, submitted to *European Journal of Operational Research*, 2020.
-3. Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng; Xing Wenxun. A clique-decomposition based global optimization algorithm for the max-cut problem, working paper, 2021. 
+3. Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng; Xing Wenxun. A tree-decomposition based global optimization algorithm for the max-cut problem, working paper, 2021. 
 4. Chen, Xin; Hu, Zhenyu; Deng, Zhibin. Dynamic pricing problem for multiple heterogeneous consumers with reference price effects, working paper, 2020. 
