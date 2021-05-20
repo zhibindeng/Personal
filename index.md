@@ -48,8 +48,8 @@ Data, Model and Decision  2017
 
 ## Publication
 1. Guo, Lei; Deng, Zhibin; A new augmented Lagrangian method for MPCCs -- Theoretical and numerical comparison with existing augmented Lagrangian methods, forthcoming in  *Mathematics of Oprations Research*, 2021.
-1. Lu, Cheng; Deng, Zhibin; A branch-and-bound algorithm for solving max-k-cut problem, *Journal of Global Optimization*, online first, 2021. [Link](https://link.springer.com/article/10.1007/s10898-021-00999-z)
-1. Deng, Zhibin; Fang, Shu-Cherng; Jin, Qingwei; Xing, Wenxun; 	Detecting copositivity of a symmetric matrix by an adaptive ellipsoid-based approximation scheme, *European Journal of Operational Research*, 229(1):21-28,	2013
+1. Lu, Cheng; Deng, Zhibin; [A branch-and-bound algorithm for solving max-k-cut problem](https://link.springer.com/article/10.1007/s10898-021-00999-z), *Journal of Global Optimization*, online first, 2021.
+1. Deng, Zhibin; Fang, Shu-Cherng; Jin, Qingwei; Xing, Wenxun; [Detecting copositivity of a symmetric matrix by an adaptive ellipsoid-based approximation scheme](https://www.sciencedirect.com/science/article/pii/S0377221713001641), *European Journal of Operational Research*, 229(1):21-28,	2013
 2. Tian, Ye; Fang, Shu-Cherng; Deng, Zhibin; Xing, Wenxun; Computable representation of the cone of nonnegative quadratic forms over a general second-order cone and its application to completely positive programming, *Journal of Industrial and Management Optimization*,	9(3):703-721, 2013.
 3. Jin, Qingwei; Tian, Ye; Deng, Zhibin; Fang, Shu-Cherng; Xing, Wenxun; Exact computable representation of some second-order cone constrained quadratic programming problems, *Journal of the Operations Research Society of China*, 1(1):107-134, 2013.
 4. Guo, Xiaoling; Deng, Zhibin; Fang, Shu-Cherng; Xing, Wenxun; Quadratic optimization over one first-order cone, *Journal of Industrial and Management Optimization*, 10:945-963, 2014.
@@ -73,9 +73,10 @@ Data, Model and Decision  2017
 22. Deng, Zhibin; Fang, Shu-Cherng; Lu, Cheng; Guo, Xiaoling; A branch-and-cut algorithm using polar cuts for solving nonconvex quadratic programming problems, *Optimization*, 67(2):359-375, 2018.
 23. Tian, Ye; Deng, Zhibin; Luo, Jian; Li, Yueqing; An intuitionistic fuzzy set based S3VM model for binary classification with mislabeled information, *Fuzzy Optimization and Decision Making*, 17(4):475-494, 2018.
 24. Deng, Zhi-Bin; Tian, Ye; Lu, Cheng; Xing, Wen-Xun; Globally solving quadratic programs with convex objective and complementarity constraints via completely positive programming, *Journal of Industrial & Management Optimization*, 14(2):625-638, 2018.
-25. Lu, Cheng; Deng, Zhibin; Zhou, Jing; Guo, Xiaoling; A sensitive-eigenvector based global algorithm for quadratically constrained quadratic programming, *Journal of Global Optimization*, 73(2):371-388, 2019.
-26. Zhou, Jing; Deng, Zhibin; A low-dimensional SDP relaxation based spatial branch and bound method for nonconvex quadratic programs, *Journal of Industrial & Management Optimization*, 16(5):2087-2102, 2020.
-27. Deng, Zhibin; Lu, Cheng; Tian, Ye; Luo, Jian; Globally solving extended trust region subproblems with two intersecting cuts, *Optimization Letters*, 14(3):1855–1867, 2020.
+25. Lu, Cheng; Deng, Zhibin; Zhou, Jing; Guo, Xiaoling; [A sensitive-eigenvector based global algorithm for quadratically constrained quadratic programming](https://link.springer.com/article/10.1007/s10898-018-0726-y), *Journal of Global Optimization*, 73(2):371-388, 2019.
+26. Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng; Jin Qingwei; Xing, Wenxun; [Fast computation of global solutions to the single-period unit commitment problem](https://link.springer.com/article/10.1007%2Fs10878-019-00489-9), *Journal of Combinatorial Optimization*, online first, 2019.
+27. Zhou, Jing; Deng, Zhibin; A low-dimensional SDP relaxation based spatial branch and bound method for nonconvex quadratic programs, *Journal of Industrial & Management Optimization*, 16(5):2087-2102, 2020.
+28. Deng, Zhibin; Lu, Cheng; Tian, Ye; Luo, Jian; Globally solving extended trust region subproblems with two intersecting cuts, *Optimization Letters*, 14(3):1855–1867, 2020.
 
 
 ## Working Paper
