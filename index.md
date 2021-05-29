@@ -1,7 +1,9 @@
 ## Zhibin Deng (邓智斌)
 Associate Professor 
 
-School of Economics and Management Sciences, University of Chinese Academy of Sciences
+School of Economics and Management Sciences 
+
+University of Chinese Academy of Sciences
 
 Phone: +86-10-82680681
 
@@ -64,19 +66,19 @@ Data, Model and Decision  2017
 13. Luo, Jian; Fang, Shu-Cherng; Bai, Yanqin; Deng, Zhibin; Fuzzy quadratic surface support vector machine based on Fisher discriminant analysis, *Journal of Industrial Optimization and Management*, 12(1):357–373, 2016.
 14. Tian, Ye; Shu-Cherng, Fang; Deng, Zhibin; Qingwei, Jin; Cardinality constrained portfolio selection problem: A completely positive programming approach, *Journal of Industrial and Optimization Management*, 12(3):1041–1056, 2016.
 15. Nie, Tiantian; Fang, Shu-Cherng; Deng, Zhibin; Lavery, John E; On linear conic relaxation of discrete quadratic programs, *Optimization Methods and Software*, 31(4):737-754, 2016.
-16. Lu, Cheng; Deng, Zhibin; Jin, Qingwei; An eigenvalue decomposition based branch-and-bound algorithm for nonconvex quadratic programming problems with convex quadratic constraints, *Journal of Global Optimization*, 67(3):475-493, 2017.
+16. Lu, Cheng; Deng, Zhibin; Jin, Qingwei; [An eigenvalue decomposition based branch-and-bound algorithm for nonconvex quadratic programming problems with convex quadratic constraints](https://link.springer.com/article/10.1007/s10898-016-0436-2), *Journal of Global Optimization*, 67(3):475-493, 2017.
 17. Li, Xingmei; Huang, Yao-Huei; Fang, Shu-Cherng; Deng, Zhibin; Reformulations for project portfolio selection problem considering interdependence and cardinality, *Pacific Journal of Optimization*, 12(2):355-366, 2016.
-18. Luo, Jian; Fang, Shu-Cherng; Deng, Zhibin; Guo, Xiaoling; Soft quadratic surface support vector machine for binary classification, *Asia-Pacific Journal of Operational Research*, 33(6):1650046, 2016.
-19. Lu, Cheng; Deng, Zhibin; Zhang, Wei-Qiang; Fang, Shu-Cherng; Argument division based branch-and-bound algorithm for unit-modulus constrained complex quadratic programming, *Journal of Global Optimization*, 70(1): 171-187, 2018.
-20. Tian, Ye; Sun, Miao; Deng, Zhibin; Luo, Jian; Li, Yueqing; A new fuzzy set and nonkernel SVM approach for mislabeled binary classification with applications,	*IEEE Transactions on Fuzzy Systems*, 25(6):1536-1545, 2017.
+18. Luo, Jian; Fang, Shu-Cherng; Deng, Zhibin; Guo, Xiaoling; [Soft quadratic surface support vector machine for binary classification](https://www.worldscientific.com/doi/abs/10.1142/S0217595916500469), *Asia-Pacific Journal of Operational Research*, 33(6):1650046, 2016.
+19. Lu, Cheng; Deng, Zhibin; Zhang, Wei-Qiang; Fang, Shu-Cherng; [Argument division based branch-and-bound algorithm for unit-modulus constrained complex quadratic programming](https://link.springer.com/article/10.1007/s10898-017-0551-8), *Journal of Global Optimization*, 70(1): 171-187, 2018.
+20. Tian, Ye; Sun, Miao; Deng, Zhibin; Luo, Jian; Li, Yueqing; [A new fuzzy set and nonkernel SVM approach for mislabeled binary classification with applications](https://ieeexplore.ieee.org/document/8036206),	*IEEE Transactions on Fuzzy Systems*, 25(6):1536-1545, 2017.
 21. Lu, Cheng; Deng, Zhibin; DC decomposition based branch-and-bound algorithms for box-constrained quadratic programs,	*Optimization Letters*, 12(5):985-996, 2018.
-22. Deng, Zhibin; Fang, Shu-Cherng; Lu, Cheng; Guo, Xiaoling; A branch-and-cut algorithm using polar cuts for solving nonconvex quadratic programming problems, *Optimization*, 67(2):359-375, 2018.
-23. Tian, Ye; Deng, Zhibin; Luo, Jian; Li, Yueqing; An intuitionistic fuzzy set based S3VM model for binary classification with mislabeled information, *Fuzzy Optimization and Decision Making*, 17(4):475-494, 2018.
-24. Deng, Zhi-Bin; Tian, Ye; Lu, Cheng; Xing, Wen-Xun; Globally solving quadratic programs with convex objective and complementarity constraints via completely positive programming, *Journal of Industrial & Management Optimization*, 14(2):625-638, 2018.
+22. Deng, Zhibin; Fang, Shu-Cherng; Lu, Cheng; Guo, Xiaoling; [A branch-and-cut algorithm using polar cuts for solving nonconvex quadratic programming problems](https://www.tandfonline.com/doi/abs/10.1080/02331934.2017.1391253), *Optimization*, 67(2):359-375, 2018.
+23. Tian, Ye; Deng, Zhibin; Luo, Jian; Li, Yueqing; [An intuitionistic fuzzy set based S3VM model for binary classification with mislabeled information](https://link.springer.com/article/10.1007/s10700-017-9282-z), *Fuzzy Optimization and Decision Making*, 17(4):475-494, 2018.
+24. Deng, Zhi-Bin; Tian, Ye; Lu, Cheng; Xing, Wen-Xun; [Globally solving quadratic programs with convex objective and complementarity constraints via completely positive programming](http://www.aimsciences.org/article/id/57e2f3dd-8006-47b7-9cc0-e8ae4f4d8f67), *Journal of Industrial & Management Optimization*, 14(2):625-638, 2018.
 25. Lu, Cheng; Deng, Zhibin; Zhou, Jing; Guo, Xiaoling; [A sensitive-eigenvector based global algorithm for quadratically constrained quadratic programming](https://link.springer.com/article/10.1007/s10898-018-0726-y), *Journal of Global Optimization*, 73(2):371-388, 2019.
 26. Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng; Jin Qingwei; Xing, Wenxun; [Fast computation of global solutions to the single-period unit commitment problem](https://link.springer.com/article/10.1007%2Fs10878-019-00489-9), *Journal of Combinatorial Optimization*, online first, 2019.
 27. Zhou, Jing; Deng, Zhibin; A low-dimensional SDP relaxation based spatial branch and bound method for nonconvex quadratic programs, *Journal of Industrial & Management Optimization*, 16(5):2087-2102, 2020.
-28. Deng, Zhibin; Lu, Cheng; Tian, Ye; Luo, Jian; Globally solving extended trust region subproblems with two intersecting cuts, *Optimization Letters*, 14(3):1855–1867, 2020.
+28. Deng, Zhibin; Lu, Cheng; Tian, Ye; Luo, Jian; [Globally solving extended trust region subproblems with two intersecting cuts](https://link.springer.com/article/10.1007/s11590-019-01484-z), *Optimization Letters*, 14(3):1855–1867, 2020.
 
 
 ## Working Paper
