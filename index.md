@@ -83,5 +83,4 @@ Data, Model and Decision  2017
 1. Lu, Cheng; Deng, Zhibin; Graphic structure based global optimization algorithm for the unit-modulus constrained quadratic optimization, submitted to *SIAM Journal on Optimization*, 2021. 
 2. Luo, Jian; Fang, Shu-Cherng; Deng, Zhibin; Tian, Ye. Distributionally robust kernel-free support vector regression based on optimal margin distribution, submitted to *European Journal of Operational Research*, 2020.
 3. Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng; Xing Wenxun. A tree-decomposition based global optimization algorithm for the max-cut problem, working paper, 2021. 
-    Instances used in this paper are available [here](https://github.com/zhibindeng/Personal/blob/8f5a6edc1d62b0e9e4bb80d1563ff6e04ff59bec/Test_Upload.zip)
-5. Chen, Xin; Hu, Zhenyu; Deng, Zhibin. Dynamic pricing problem for multiple heterogeneous consumers with reference price effects, working paper, 2020. 
+4. Chen, Xin; Hu, Zhenyu; Deng, Zhibin. Dynamic pricing problem for multiple heterogeneous consumers with reference price effects, working paper, 2020. 
