@@ -3,7 +3,7 @@ Associate Professor
 
 School of Economics and Management Sciences 
 
-University of Chinese Academy of Sciences
+University of Chinese Academy of Sciences (UCAS)
 
 Phone: +86-10-82680681
 
@@ -33,9 +33,11 @@ Food Supply Chain Management 2021
 
 Optimization and Simulation Methods in Finance 2014--2021
 
+Financial Engineering, 2019
+
 Introduction to Operations Research 2018
 
-Data, Model and Decision  2017
+Data, Model and Decision  2017，2022
 
 ## Grants
 1. 国家自然科学基金青年科学项目，11501543，0-1二次约束二次优化问题的非凸二次松弛，2016/01-2018/12，21.2万元，已结题，主持.
@@ -46,6 +48,8 @@ Data, Model and Decision  2017
 
 ## Awards
 1. Best Paper Award of Year 2017, Journal of Global Optimization.
+2. Excellent Course Evaluation for the course "Financial Engineering" in 2019, School of Economics and Management, UCAS.
+3. Best Teaching Award of Year 2017, School of Economics and Management, UCAS.
 
 
 ## Publication
