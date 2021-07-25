@@ -55,7 +55,7 @@ Data, Model and Decision  2017，2022
 ## Publication
 1. Guo, Lei; Deng, Zhibin; A new augmented Lagrangian method for MPCCs -- Theoretical and numerical comparison with existing augmented Lagrangian methods, forthcoming in  *Mathematics of Operations Research*, 2021.
 1. Lu, Cheng; Deng, Zhibin; [A branch-and-bound algorithm for solving max-k-cut problem](https://link.springer.com/article/10.1007/s10898-021-00999-z), *Journal of Global Optimization*, online first, 2021.
-1. Deng, Zhibin; Fang, Shu-Cherng; Jin, Qingwei; Xing, Wenxun; [Detecting copositivity of a symmetric matrix by an adaptive ellipsoid-based approximation scheme](https://www.sciencedirect.com/science/article/pii/S0377221713001641), *European Journal of Operational Research*, 229(1):21-28,	2013
+1. Deng, Zhibin; Fang, Shu-Cherng; Jin, Qingwei; Xing, Wenxun; [Detecting copositivity of a symmetric matrix by an adaptive ellipsoid-based approximation scheme](https://www.sciencedirect.com/science/article/pii/S0377221713001641), *European Journal of Operational Research*, 229(1):21-28,	2013.
 2. Tian, Ye; Fang, Shu-Cherng; Deng, Zhibin; Xing, Wenxun; [Computable representation of the cone of nonnegative quadratic forms over a general second-order cone and its application to completely positive programming](https://www.aimsciences.org/article/doi/10.3934/jimo.2013.9.703), *Journal of Industrial and Management Optimization*,	9(3):703-721, 2013.
 3. Jin, Qingwei; Tian, Ye; Deng, Zhibin; Fang, Shu-Cherng; Xing, Wenxun; [Exact computable representation of some second-order cone constrained quadratic programming problems](https://link.springer.com/content/pdf/10.1007/s40305-013-0009-8.pdf), *Journal of the Operations Research Society of China*, 1(1):107-134, 2013.
 4. Guo, Xiaoling; Deng, Zhibin; Fang, Shu-Cherng; Xing, Wenxun; [Quadratic optimization over one first-order cone](http://www.aimsciences.org/article/doi/10.3934/jimo.2014.10.945), *Journal of Industrial and Management Optimization*, 10:945-963, 2014.
@@ -86,7 +86,7 @@ Data, Model and Decision  2017，2022
 
 
 ## Working Paper
-1. Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng; Xing Wenxun. [A tree-decomposition based branch-and-bound algorithm for the max-cut problem with sparsity pattern](https://github.com/zhibindeng/Personal/blob/gh-pages/Files/IJOC_Draft.pdf), submitted to *INFORMS Journal on Computing*, 2021. *Download the test instances used in this paper [here](https://github.com/zhibindeng/Personal/blob/gh-pages/TestSet.zip)*.
+1. Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng; Xing Wenxun. [A tree-decomposition based branch-and-bound algorithm for the max-cut problem with sparsity pattern](https://github.com/zhibindeng/Personal/blob/gh-pages/Files/IJOC_Draft.pdf), submitted to *INFORMS Journal on Computing*, 2021. Download the test instances used in this paper *[here](https://github.com/zhibindeng/Personal/blob/gh-pages/TestSet.zip)*.
 2. Lu, Cheng; Deng, Zhibin; Graphic structure based global optimization algorithm for the unit-modulus constrained quadratic optimization, submitted to *SIAM Journal on Optimization*, 2021. 
 3. Luo, Jian; Fang, Shu-Cherng; Deng, Zhibin; Tian, Ye. Distributionally robust kernel-free support vector regression based on optimal margin distribution, submitted to *European Journal of Operational Research*, 2020.
 4. Chen, Xin; Hu, Zhenyu; Deng, Zhibin. Dynamic pricing problem for multiple heterogeneous consumers with reference price effects, working paper, 2020. 
