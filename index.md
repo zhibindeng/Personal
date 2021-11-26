@@ -37,7 +37,7 @@ Financial Engineering, 2019
 
 Introduction to Operations Research 2018
 
-Data, Model and Decision  2017，2022
+Data, Model and Decision-Making  2017，2021
 
 ## Grants
 1. 国家自然科学基金青年科学项目，11501543，0-1二次约束二次优化问题的非凸二次松弛，2016/01-2018/12，21.2万元，已结题，主持.
