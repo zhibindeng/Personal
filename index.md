@@ -29,15 +29,17 @@ M.S. in Operations Research, Tsinghua University, 2009
 B.S. in Applied Mathematics, Tsinghua University, 2007
 
 ## Teaching
-Food Supply Chain Management 2021
+Food Supply Chain Management 2021, 2022
 
-Optimization and Simulation Methods in Finance 2014--2021
+Data, Model and Decision-Making  2017, 2021, 2022
+
+Optimization and Simulation Methods in Finance 2014--2022
 
 Financial Engineering, 2019
 
 Introduction to Operations Research 2018
 
-Data, Model and Decision-Making  2017，2021
+
 
 ## Grants
 1. 国家自然科学基金青年科学项目, 11501543, 0-1二次约束二次优化问题的非凸二次松弛, 2016/01-2018/12, 21.2万元, 已结题, 主持.
