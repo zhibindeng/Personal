@@ -87,7 +87,7 @@ Data, Model and Decision-Making  2017，2021
 
 
 ## Working Paper
-1. Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng; Xing Wenxun. [A tree-decomposition based branch-and-bound algorithm for the max-cut problem with sparsity pattern](https://github.com/zhibindeng/Personal/blob/gh-pages/Files/MaxCut_JOTA.pdf), submitted to *Joournal of Optimization Theory and Applications*, 2022. Download the test instances used in this paper *[here](https://github.com/zhibindeng/Personal/blob/gh-pages/TestSet.zip)*.
+1. Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng; Xing Wenxun. [A tree-decomposition based branch-and-bound algorithm for the max-cut problem with chordal sparsity patterns](https://github.com/zhibindeng/Personal/blob/gh-pages/Files/MaxCut_JOTA.pdf), submitted to *Joournal of Optimization Theory and Applications*, 2022. Download the test instances used in this paper *[here](https://github.com/zhibindeng/Personal/blob/gh-pages/TestSet.zip)*.
 2. Lu, Cheng; Deng, Zhibin; Graphic structure based global optimization algorithm for the unit-modulus constrained quadratic optimization, submitted to *SIAM Journal on Optimization*, 2021. 
 3. Luo, Jian; Fang, Shu-Cherng; Deng, Zhibin; Tian, Ye. Distributionally robust kernel-free support vector regression based on optimal margin distribution, submitted to *Knowledge Based System*, 2021.
 4. Chen, Xin; Hu, Zhenyu; Deng, Zhibin. Dynamic pricing problem for multiple heterogeneous consumers with reference price effects, working paper, 2021. 
