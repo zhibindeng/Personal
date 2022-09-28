@@ -57,6 +57,7 @@ Introduction to Operations Research 2018
 
 ## Publication
 1. Luo, Jian; Fang, Shu-Cherng; Deng, Zhibin; Tian, Ye. [Distributionally robust kernel-free support vector regression based on optimal margin distribution](https://authors.elsevier.com/a/1fWc33OAb95Lbl), *Knowledge-Based Systems*, 253:109477, 2022.
+2. Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng; Jin Qingwei; Xing, Wenxun; [Fast computation of global solutions to the single-period unit commitment problem](https://link.springer.com/article/10.1007/s10878-019-00489-9), *Journal of Combinatorial Optimization*, 44, 1511–1536, 2022.
 3. Guo, Lei; Deng, Zhibin; [A new augmented Lagrangian method for MPCCs -- Theoretical and numerical comparison with existing augmented Lagrangian methods](https://pubsonline.informs.org/doi/abs/10.1287/moor.2021.1165), *Mathematics of Operations Research*, 47(2):1229–1246, 2022.
 4. Lu, Cheng; Wu, Junhao; Deng, Zhibin; Li, Shaoze; [A fast global algorithm for singly linearly constrained separable binary quadratic program with partially identical parameters](https://doi.org/10.1007/s11590-022-01891-9), *Optimization Letters*, online first, (2022). 
 5. Lu, Cheng; Deng, Zhibin; [A branch-and-bound algorithm for solving max-k-cut problem](https://doi.org/10.1007/s10898-021-00999-z), *Journal of Global Optimization*, 81(2):367–389, 2021.
@@ -85,7 +86,6 @@ Introduction to Operations Research 2018
 28. Tian, Ye; Deng, Zhibin; Luo, Jian; Li, Yueqing; [An intuitionistic fuzzy set based S3VM model for binary classification with mislabeled information](https://link.springer.com/article/10.1007/s10700-017-9282-z), *Fuzzy Optimization and Decision Making*, 17(4):475-494, 2018.
 29. Deng, Zhi-Bin; Tian, Ye; Lu, Cheng; Xing, Wen-Xun; [Globally solving quadratic programs with convex objective and complementarity constraints via completely positive programming](http://www.aimsciences.org/article/id/57e2f3dd-8006-47b7-9cc0-e8ae4f4d8f67), *Journal of Industrial & Management Optimization*, 14(2):625-638, 2018.
 30. Lu, Cheng; Deng, Zhibin; Zhou, Jing; Guo, Xiaoling; [A sensitive-eigenvector based global algorithm for quadratically constrained quadratic programming](https://link.springer.com/article/10.1007/s10898-018-0726-y), *Journal of Global Optimization*, 73(2):371-388, 2019.
-31. Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng; Jin Qingwei; Xing, Wenxun; [Fast computation of global solutions to the single-period unit commitment problem](https://link.springer.com/article/10.1007%2Fs10878-019-00489-9), *Journal of Combinatorial Optimization*, online first, 2019.
 32. Zhou, Jing; Deng, Zhibin; A low-dimensional SDP relaxation based spatial branch and bound method for nonconvex quadratic programs, *Journal of Industrial & Management Optimization*, 16(5):2087-2102, 2020.
 33. Deng, Zhibin; Lu, Cheng; Tian, Ye; Luo, Jian; [Globally solving extended trust region subproblems with two intersecting cuts](https://link.springer.com/article/10.1007/s11590-019-01484-z), *Optimization Letters*, 14(3):1855–1867, 2020.
 
