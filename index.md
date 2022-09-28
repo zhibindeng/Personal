@@ -57,7 +57,7 @@ Introduction to Operations Research 2018
 
 ## Publication
 1. Luo, Jian; Fang, Shu-Cherng; Deng, Zhibin; Tian, Ye. [Distributionally robust kernel-free support vector regression based on optimal margin distribution](https://authors.elsevier.com/a/1fWc33OAb95Lbl), *Knowledge-Based Systems*, 253:109477, 2022.
-2. Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng; Jin Qingwei; Xing, Wenxun; [Fast computation of global solutions to the single-period unit commitment problem](https://link.springer.com/article/10.1007/s10878-019-00489-9), *Journal of Combinatorial Optimization*, 44, 1511–1536, 2022.
+2. Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng; Jin Qingwei; Xing, Wenxun; [Fast computation of global solutions to the single-period unit commitment problem](https://link.springer.com/article/10.1007/s10878-019-00489-9), *Journal of Combinatorial Optimization*, 44(3), 1511–1536, 2022.
 3. Guo, Lei; Deng, Zhibin; [A new augmented Lagrangian method for MPCCs -- Theoretical and numerical comparison with existing augmented Lagrangian methods](https://pubsonline.informs.org/doi/abs/10.1287/moor.2021.1165), *Mathematics of Operations Research*, 47(2):1229–1246, 2022.
 4. Lu, Cheng; Wu, Junhao; Deng, Zhibin; Li, Shaoze; [A fast global algorithm for singly linearly constrained separable binary quadratic program with partially identical parameters](https://doi.org/10.1007/s11590-022-01891-9), *Optimization Letters*, online first, (2022). 
 5. Lu, Cheng; Deng, Zhibin; [A branch-and-bound algorithm for solving max-k-cut problem](https://doi.org/10.1007/s10898-021-00999-z), *Journal of Global Optimization*, 81(2):367–389, 2021.
