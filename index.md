@@ -56,6 +56,7 @@ Introduction to Operations Research 2018
 
 
 ## Publication
+1. Wang, Huihui; Fang, Shu-Cherng; Huang, Min; Zhang, Qihuan; Deng, Zhibin. [A joint model of location, inventory and third-party logistics provider in supply chain network design](https://authors.elsevier.com/c/1g5jN1I2r-El2d), *Computers and Industrial Engineering*, 174:108809, 2022.
 1. Luo, Jian; Fang, Shu-Cherng; Deng, Zhibin; Tian, Ye. [Distributionally robust kernel-free support vector regression based on optimal margin distribution](https://authors.elsevier.com/a/1fWc33OAb95Lbl), *Knowledge-Based Systems*, 253:109477, 2022.
 2. Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng; Jin Qingwei; Xing, Wenxun; [Fast computation of global solutions to the single-period unit commitment problem](https://link.springer.com/article/10.1007/s10878-019-00489-9), *Journal of Combinatorial Optimization*, 44(3):1511–1536, 2022.
 3. Guo, Lei; Deng, Zhibin; [A new augmented Lagrangian method for MPCCs -- Theoretical and numerical comparison with existing augmented Lagrangian methods](https://pubsonline.informs.org/doi/abs/10.1287/moor.2021.1165), *Mathematics of Operations Research*, 47(2):1229–1246, 2022.
