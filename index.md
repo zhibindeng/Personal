@@ -94,9 +94,9 @@ Introduction to Operations Research 2018
 
 
 ## Working Paper
-1. Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng; Xing, Wenxun. [A tree-decomposition based branch-and-bound algorithm for the max-cut problem with chordal sparsity patterns](https://github.com/zhibindeng/Personal/blob/gh-pages/Files/MaxCut_JOTA.pdf), submitted to *Journal of Optimization Theory and Applications*, 2022. Download the test instances used in this paper *[here](https://github.com/zhibindeng/Personal/blob/gh-pages/TestSet.zip)*.
-2. Lu, Cheng; Deng, Zhibin; A graphic structure based branch-and-bound algorithm for complex quadratic optimization and applications to magnitude least-square problem, submitted to *Journal of Global Optimization*, 2022. 
-3. Li, Shaoze; Deng, Zhibin; Lu, Cheng; Wu, Junhao; Dai, Jinyu. Efficient global algorithms for indefinite separable quadratic knapsack problems with box constraints, submitted to *Computational Optimization and Applications*, 2022.
-4. Xu, Yingzhe; Lu, Cheng; Deng, Zhibin; Liu, Ya-Feng. New semidefinite relaxations for a class of complex quadratic programming problems, submitted to *Journal of Global Optimization*, under first round major revision, 2022. 
-5. Wang, Qiao; Lu, Cheng; Deng, Zhibin, Dong, Jichang. A simplified completely positive reformulation for binary quadratic programs, submitted to *Operations Research Letters*, 2022. 
+1. Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng; Xing, Wenxun. [A tree-decomposition based branch-and-bound algorithm for the max-cut problem with chordal sparsity patterns](https://github.com/zhibindeng/Personal/blob/gh-pages/Files/MaxCut_JOTA.pdf), under revision in *Journal of Optimization Theory and Applications*, 2023. Download the test instances used in this paper *[here](https://github.com/zhibindeng/Personal/blob/gh-pages/TestSet.zip)*.
+2. Lu, Cheng; Deng, Zhibin; A graphic structure based branch-and-bound algorithm for complex quadratic optimization and applications to magnitude least-square problem, under revision in *Journal of Global Optimization*, 2023. 
+3. Li, Shaoze; Deng, Zhibin; Lu, Cheng; Wu, Junhao; Dai, Jinyu. Efficient global algorithms for indefinite separable quadratic knapsack problems with box constraints, under revision in *Computational Optimization and Applications*, 2023.
+4. Xu, Yingzhe; Lu, Cheng; Deng, Zhibin; Liu, Ya-Feng. New semidefinite relaxations for a class of complex quadratic programming problems, submitted to *Journal of Global Optimization*, under first round major revision, 2023. 
+5. Wang, Qiao; Lu, Cheng; Deng, Zhibin, Dong, Jichang. A simplified completely positive reformulation for binary quadratic programs, to appear in *Operations Research Letters*, 2023. 
 6. Chen, Xin; Hu, Zhenyu; Deng, Zhibin. Dynamic pricing problem for multiple heterogeneous consumers with reference price effects, working paper, 2021. 
