@@ -90,7 +90,7 @@ Introduction to Operations Research 2018
 31. Tian, Ye; Deng, Zhibin; Luo, Jian; Li, Yueqing; [An intuitionistic fuzzy set based S3VM model for binary classification with mislabeled information](https://link.springer.com/article/10.1007/s10700-017-9282-z), *Fuzzy Optimization and Decision Making*, 17(4):475-494, 2018.
 32. Deng, Zhi-Bin; Tian, Ye; Lu, Cheng; Xing, Wen-Xun; [Globally solving quadratic programs with convex objective and complementarity constraints via completely positive programming](http://www.aimsciences.org/article/id/57e2f3dd-8006-47b7-9cc0-e8ae4f4d8f67), *Journal of Industrial & Management Optimization*, 14(2):625-638, 2018.
 33. Lu, Cheng; Deng, Zhibin; Zhou, Jing; Guo, Xiaoling; [A sensitive-eigenvector based global algorithm for quadratically constrained quadratic programming](https://link.springer.com/article/10.1007/s10898-018-0726-y), *Journal of Global Optimization*, 73(2):371-388, 2019.
-34. Zhou, Jing; Deng, Zhibin; A low-dimensional SDP relaxation based spatial branch and bound method for nonconvex quadratic programs, *Journal of Industrial & Management Optimization*, 16(5):2087-2102, 2020.
+34. Zhou, Jing; Deng, Zhibin; [A low-dimensional SDP relaxation based spatial branch and bound method for nonconvex quadratic programs](https://doi.org/10.3934/jimo.2019044), *Journal of Industrial & Management Optimization*, 16(5):2087-2102, 2020.
 35. Deng, Zhibin; Lu, Cheng; Tian, Ye; Luo, Jian; [Globally solving extended trust region subproblems with two intersecting cuts](https://link.springer.com/article/10.1007/s11590-019-01484-z), *Optimization Letters*, 14(3):1855–1867, 2020.
 
 
