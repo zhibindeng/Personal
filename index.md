@@ -58,7 +58,7 @@ Introduction to Operations Research 2018
 
 
 ## Publication
-1. Wang, Qiao; Lu, Cheng; Deng, Zhibin, Dong, Jichang. [A simplified completely positive reformulation for binary quadratic programs](https://doi.org/10.1016/j.orl.2023.02.007), *Operations Research Letters*, online first, Feb. 25, 2023. 
+1. Wang, Qiao; Lu, Cheng; Deng, Zhibin, Dong, Jichang. [A simplified completely positive reformulation for binary quadratic programs](https://authors.elsevier.com/a/1gfvAc7SoxYtn), *Operations Research Letters*, 51(3):192-200, May 2023. 
 2. Wang, Huihui; Fang, Shu-Cherng; Huang, Min; Zhang, Qihuan; Deng, Zhibin. [A joint model of location, inventory and third-party logistics provider in supply chain network design](https://authors.elsevier.com/c/1g5jN1I2r-El2d), *Computers and Industrial Engineering*, 174:108809, 2022.
 3. Luo, Jian; Fang, Shu-Cherng; Deng, Zhibin; Tian, Ye. [Distributionally robust kernel-free support vector regression based on optimal margin distribution](https://authors.elsevier.com/a/1fWc33OAb95Lbl), *Knowledge-Based Systems*, 253:109477, 2022.
 4. Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng; Jin Qingwei; Xing, Wenxun; [Fast computation of global solutions to the single-period unit commitment problem](https://link.springer.com/article/10.1007/s10878-019-00489-9), *Journal of Combinatorial Optimization*, 44(3):1511–1536, 2022.
