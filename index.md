@@ -97,6 +97,6 @@ Introduction to Operations Research 2018
 
 ## Working Paper
 1. Lu, Cheng; Deng, Zhibin; A graphic structure based branch-and-bound algorithm for complex quadratic optimization and applications to magnitude least-square problem, under revision in *Journal of Global Optimization*, 2023. 
-2. Li, Shaoze; Deng, Zhibin; Lu, Cheng; Wu, Junhao; Dai, Jinyu. Efficient global algorithms for indefinite separable quadratic knapsack problems with box constraints, under revision in *Computational Optimization and Applications*, 2023.
+2. Li, Shaoze; Deng, Zhibin; Lu, Cheng; Wu, Junhao; Dai, Jinyu. Efficient global algorithms for indefinite separable quadratic knapsack problems with box constraints, to appear in *Computational Optimization and Applications*, 2023.
 3. Xu, Yingzhe; Lu, Cheng; Deng, Zhibin; Liu, Ya-Feng. New semidefinite relaxations for a class of complex quadratic programming problems, submitted to *Journal of Global Optimization*, under first round major revision, 2023. 
 4. Chen, Xin; Hu, Zhenyu; Deng, Zhibin. Dynamic pricing problem for multiple heterogeneous consumers with reference price effects, working paper, 2023. 
