@@ -59,7 +59,7 @@ Introduction to Operations Research 2018
 
 ## Publication
 1. Xu, Yingzhe; Lu, Cheng; Deng, Zhibin; Liu, Ya-Feng. [New semidefinite relaxations for a class of complex quadratic programming problems](https://link.springer.com/article/10.1007/s10898-023-01290-z), *Journal of Global Optimization*, online first, May 2023.
-1. Wang, Qiao; Lu, Cheng; Deng, Zhibin, Dong, Jichang. [A simplified completely positive reformulation for binary quadratic programs](https://authors.elsevier.com/a/1gfvAc7SoxYtn), *Operations Research Letters*, 51(3):197-200, May 2023. 
+1. Wang, Qiao; Lu, Cheng; Deng, Zhibin, Dong, Jichang. [A simplified completely positive reformulation for binary quadratic programs](https://doi.org/10.1016/j.orl.2023.02.007), *Operations Research Letters*, 51(3):197-200, May 2023. 
 2. Wu, Junhao; Lu, Cheng; Li, Shaoze, Deng, Zhibin. [A semidefinite relaxation based global algorithm for two-level graph partition problem](https://www.aimsciences.org/article/doi/10.3934/jimo.2022250), *Journal of Industrial and Management Optimization*, 19(9):7036-7053, Sep. 2023. 
 3. Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng; Xing, Wenxun. [A New Global Algorithm for Max-Cut Problem with Chordal Sparsity](https://link.springer.com/article/10.1007/s10957-023-02195-3#Ack1), *Journal of Optimization Theory and Applications*, March 2023. Download the test instances used in this paper *[here](https://github.com/zhibindeng/Personal/blob/gh-pages/TestSet.zip)*.
 4. Wang, Huihui; Fang, Shu-Cherng; Huang, Min; Zhang, Qihuan; Deng, Zhibin. [A joint model of location, inventory and third-party logistics provider in supply chain network design](https://authors.elsevier.com/c/1g5jN1I2r-El2d), *Computers and Industrial Engineering*, 174:108809, 2022.
