@@ -13,11 +13,11 @@ Email: zhibindeng@ucas.edu.cn
 
 [Google Scholar](https://scholar.google.com/citations?user=75bsev4AAAAJ&hl=en)
 
-I’m currently an associate professor of the School of Economics and Management at the University of Chinese Academy of Sciences, Beijing. 
+I’m an associate professor of the School of Economics and Management at the University of Chinese Academy of Sciences, Beijing. 
 
-I received my Ph.D. from the Industrial and System Engineering (ISE) department at North Carolina State Unversity in Dec 2013. 
+I received my Ph.D. from the Industrial and System Engineering (ISE) department at North Carolina State University in Dec 2013. 
 
-Recently I’m interested in various approaches to making data-driven decisions in the context of revenue management, including dynamic programming and machine learning.
+Recently I’ve been interested in various approaches to making data-driven decisions in the context of revenue management, including dynamic programming and machine learning.
 
 My research is also broadly related to mathematical optimization.
 
@@ -31,7 +31,7 @@ B.S. in Applied Mathematics, Tsinghua University, 2007
 ## Teaching
 Food Supply Chain Management 2021, 2022
 
-Data, Model and Decision-Making  2017, 2021, 2022
+Data, Model, and Decision-Making  2017, 2021, 2022
 
 Optimization and Simulation Methods in Finance 2014--2022
 
@@ -58,6 +58,7 @@ Introduction to Operations Research 2018
 
 
 ## Publication
+1. Lu, Cheng; Ma, Jitao, Deng, Zhibin, Xing, Wenxun; [A graphic structure based branch-and-bound algorithm for complex quadratic optimization and applications to magnitude least-square problem](https://link.springer.com/article/10.1007/s10898-023-01305-9), *Journal of Global Optimization*, online first, June 2023. 
 1. Xu, Yingzhe; Lu, Cheng; Deng, Zhibin; Liu, Ya-Feng. [New semidefinite relaxations for a class of complex quadratic programming problems](https://link.springer.com/article/10.1007/s10898-023-01290-z), *Journal of Global Optimization*, online first, May 2023.
 2. Li, Shaoze; Deng, Zhibin; Lu, Cheng; Wu, Junhao; Dai, Jinyu. [An efficient global algorithm for indefinite separable quadratic knapsack problems with box constraints](https://link.springer.com/article/10.1007/s10589-023-00488-x), *Computational Optimization and Applications*, online first, 02 May 2023. 
 3. Wang, Qiao; Lu, Cheng; Deng, Zhibin, Dong, Jichang. [A simplified completely positive reformulation for binary quadratic programs](https://doi.org/10.1016/j.orl.2023.02.007), *Operations Research Letters*, 51(3):197-200, May 2023. 
@@ -99,5 +100,4 @@ Introduction to Operations Research 2018
 
 
 ## Working Paper
-1. Lu, Cheng; Ma, Jitao, Deng, Zhibin, Xing, Wenxun; A graphic structure based branch-and-bound algorithm for complex quadratic optimization and applications to magnitude least-square problem, under minor revision in *Journal of Global Optimization*, May 2023. 
-3. Chen, Xin; Hu, Zhenyu; Deng, Zhibin. Dynamic pricing problem for multiple heterogeneous consumers with reference price effects, working paper, 2023. 
+1. Chen, Xin; Hu, Zhenyu; Deng, Zhibin. Dynamic pricing problem for multiple heterogeneous consumers with reference price effects, working paper, 2023. 
