@@ -58,8 +58,8 @@ Introduction to Operations Research 2018
 
 
 ## Publication
-1. Lu, Cheng; Ma, Jitao, Deng, Zhibin, Xing, Wenxun; [A graphic structure based branch-and-bound algorithm for complex quadratic optimization and applications to magnitude least-square problem](https://link.springer.com/article/10.1007/s10898-023-01305-9), *Journal of Global Optimization*, online first, June 2023. 
-1. Xu, Yingzhe; Lu, Cheng; Deng, Zhibin; Liu, Ya-Feng. [New semidefinite relaxations for a class of complex quadratic programming problems](https://link.springer.com/article/10.1007/s10898-023-01290-z), *Journal of Global Optimization*, online first, May 2023.
+1. Lu, Cheng; Ma, Jitao, Deng, Zhibin, Xing, Wenxun; [A graphic structure based branch-and-bound algorithm for complex quadratic optimization and applications to magnitude least-square problem](https://link.springer.com/article/10.1007/s10898-023-01305-9), *Journal of Global Optimization*, online first, Sep. 2023. 
+1. Xu, Yingzhe; Lu, Cheng; Deng, Zhibin; Liu, Ya-Feng. [New semidefinite relaxations for a class of complex quadratic programming problems](https://link.springer.com/article/10.1007/s10898-023-01290-z), *Journal of Global Optimization*, 87(1):255–275, May 2023.
 2. Li, Shaoze; Deng, Zhibin; Lu, Cheng; Wu, Junhao; Dai, Jinyu. [An efficient global algorithm for indefinite separable quadratic knapsack problems with box constraints](https://link.springer.com/article/10.1007/s10589-023-00488-x), *Computational Optimization and Applications*, online first, 02 May 2023. 
 3. Wang, Qiao; Lu, Cheng; Deng, Zhibin, Dong, Jichang. [A simplified completely positive reformulation for binary quadratic programs](https://doi.org/10.1016/j.orl.2023.02.007), *Operations Research Letters*, 51(3):197-200, May 2023. 
 4. Wu, Junhao; Lu, Cheng; Li, Shaoze, Deng, Zhibin. [A semidefinite relaxation based global algorithm for two-level graph partition problem](https://www.aimsciences.org/article/doi/10.3934/jimo.2022250), *Journal of Industrial and Management Optimization*, 19(9):7036-7053, Sep. 2023. 
