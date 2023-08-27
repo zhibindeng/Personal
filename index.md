@@ -52,8 +52,10 @@ Introduction to Operations Research 2018
 8. 中国科学院大学数字经济监测预测预警与政策仿真教育部哲学社会科学实验室（培育）子课题, 5万, 在研, 主持.
 
 ## Awards
+1. Excellent Course Award for the course "Optimization and Simulation Methods in Finance" in 2022, UCAS.
+2. Zhu-Li-Yue-Hua Award for Excellent Faculty in 2022, UCAS. 
 1. Best Paper Award of Year 2017, Journal of Global Optimization.
-2. Excellent Course Evaluation for the course "Financial Engineering" in 2019, School of Economics and Management, UCAS.
+2. Excellent Course Award for the course "Financial Engineering" in 2019, School of Economics and Management, UCAS.
 3. Best Teaching Award of Year 2017, School of Economics and Management, UCAS.
 
 
