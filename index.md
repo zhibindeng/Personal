@@ -60,6 +60,7 @@ Introduction to Operations Research 2018
 
 
 ## Publication
+1. Liu, Yang-He; Xu, Ying-Zhe; Lu, Cheng; Deng, Zhibin. [A second-order cone relaxation-based branch-and-bound algorithm for complex quadratic programs on acyclic graphs](https://link.springer.com/article/10.1007/s40305-023-00506-z), *Journal of the Operations Research Society of China*, online first, 27 October 2023. 
 1. Lu, Cheng; Ma, Jitao; Deng, Zhibin; Xing, Wenxun. [A graphic structure based branch-and-bound algorithm for complex quadratic optimization and applications to magnitude least-square problem](https://link.springer.com/article/10.1007/s10898-023-01305-9), *Journal of Global Optimization*, online first, September 2023.
 2. Wu, Junhao; Lu, Cheng; Li, Shaoze; Deng, Zhibin. [A semidefinite relaxation based global algorithm for two-level graph partition problem](https://www.aimsciences.org/article/doi/10.3934/jimo.2022250), *Journal of Industrial and Management Optimization*, 19(9):7036-7053, September 2023.
 1. Xu, Yingzhe; Lu, Cheng; Deng, Zhibin; Liu, Ya-Feng. [New semidefinite relaxations for a class of complex quadratic programming problems](https://link.springer.com/article/10.1007/s10898-023-01290-z), *Journal of Global Optimization*, 87(1):255–275, May 2023.
