@@ -108,8 +108,9 @@ Introduction to Operations Research 2018
 
 
 ## Presentations
-2023年8月，日本东京， CSIAM国际学术会议， New Semidefinite Relaxations for A Class of Complex Quadratic Programming，分会报告
-2023年5月，成都，第十四届全国数学优化学术会， Global Algorithms for Nonconvex Separable Quadratic Optimization with Symmetric Structures，分会报告
-2023年4月，长沙，第十六届运筹学年会， Global Algorithms for Nonconvex Separable Quadratic Optimization with Symmetric Structures，分会报告
-2021年11月，北京，北京运筹协会学术年会， A Graphic Structure Based Branch and Bound Algorithm for Nonconvex Sparse Quadratic Optimization Problems，专题邀请报告
-2020年10月，受Northern Illinois University工业工程系邀请，参加网上云会议，并做报告
+1. 2023年10月，昆明，第二十一届中国工业与应用数学学会年会， Global Algorithms for Nonconvex Separable Quadratic Optimization with Symmetric Structures，分会报告
+2. 2023年8月，日本东京， CSIAM国际学术会议， New Semidefinite Relaxations for A Class of Complex Quadratic Programming，分会报告
+3. 2023年5月，成都，第十四届全国数学优化学术会， Global Algorithms for Nonconvex Separable Quadratic Optimization with Symmetric Structures，分会报告
+4. 2023年4月，长沙，第十六届运筹学年会， Global Algorithms for Nonconvex Separable Quadratic Optimization with Symmetric Structures，分会报告
+5. 2021年11月，北京，北京运筹协会学术年会， A Graphic Structure Based Branch and Bound Algorithm for Nonconvex Sparse Quadratic Optimization Problems，专题邀请报告
+6. 2020年10月，受Northern Illinois University工业工程系邀请，参加网上云会议，并做报告
