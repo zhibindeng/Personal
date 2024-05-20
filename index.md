@@ -29,11 +29,11 @@ M.S. in Operations Research, Tsinghua University, 2009
 B.S. in Applied Mathematics, Tsinghua University, 2007
 
 ## Teaching
-Food Supply Chain Management 2021, 2022, 2023
+Food Supply Chain Management 2021, 2022, 2023, 2024
 
 Data, Model, and Decision-Making  2017, 2021, 2022, 2023
 
-Optimization and Simulation Methods in Finance 2014--2023
+Optimization and Simulation Methods in Finance 2014--2024
 
 Financial Engineering, 2019
 
