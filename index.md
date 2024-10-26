@@ -60,6 +60,7 @@ Introduction to Operations Research 2018
 
 
 ## Publication
+1. Qu, Guangtai; Li, Shaoze; Deng, Zhibin; Lu, Cheng. [A fast global algorithm for multi-linearly constrained separable binary quadratic program](https://www.aimsciences.org/article/doi/10.3934/jimo.2024132), *Journal of Industrial and Management Optimization*, online first, October 2024.
 1. Liu, Yang-He; Xu, Ying-Zhe; Lu, Cheng; Deng, Zhibin. [A second-order cone relaxation-based branch-and-bound algorithm for complex quadratic programs on acyclic graphs](https://link.springer.com/article/10.1007/s40305-023-00506-z), *Journal of the Operations Research Society of China*, online first, 27 October 2023. 
 1. Lu, Cheng; Ma, Jitao; Deng, Zhibin; Xing, Wenxun. [A graphic structure based branch-and-bound algorithm for complex quadratic optimization and applications to magnitude least-square problem](https://link.springer.com/article/10.1007/s10898-023-01305-9), *Journal of Global Optimization*, 88(1):115–137, January 2024.
 2. Wu, Junhao; Lu, Cheng; Li, Shaoze; Deng, Zhibin. [A semidefinite relaxation based global algorithm for two-level graph partition problem](https://www.aimsciences.org/article/doi/10.3934/jimo.2022250), *Journal of Industrial and Management Optimization*, 19(9):7036-7053, September 2023.
