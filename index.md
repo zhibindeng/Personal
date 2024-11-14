@@ -60,6 +60,7 @@ Introduction to Operations Research 2018
 
 
 ## Publication
+1. Xu, Yingzhe; Xu, Jintao; Lu, Cheng; Fang, Shu-Cherng; Deng, Zhibin. [A new global algorithm for homogeneous complex quadratic programming problems and applications](http://www.yokohamapublishers.jp/online-p/PJO/vol20/pjov20n4p667.pdf), *Pacific Journal of Optimization*, 20(4):667-682, October 2024.
 1. Qu, Guangtai; Li, Shaoze; Deng, Zhibin; Lu, Cheng. [A fast global algorithm for multi-linearly constrained separable binary quadratic program](https://www.aimsciences.org/article/doi/10.3934/jimo.2024132), *Journal of Industrial and Management Optimization*, online first, October 2024.
 1. Liu, Yang-He; Xu, Ying-Zhe; Lu, Cheng; Deng, Zhibin. [A second-order cone relaxation-based branch-and-bound algorithm for complex quadratic programs on acyclic graphs](https://link.springer.com/article/10.1007/s40305-023-00506-z), *Journal of the Operations Research Society of China*, online first, 27 October 2023. 
 1. Lu, Cheng; Ma, Jitao; Deng, Zhibin; Xing, Wenxun. [A graphic structure based branch-and-bound algorithm for complex quadratic optimization and applications to magnitude least-square problem](https://link.springer.com/article/10.1007/s10898-023-01305-9), *Journal of Global Optimization*, 88(1):115–137, January 2024.
