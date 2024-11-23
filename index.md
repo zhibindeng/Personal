@@ -106,8 +106,7 @@ Introduction to Operations Research 2018
 
 ## Working Paper
 1. Chen, Xin; Hu, Zhenyu; Deng, Zhibin. Dynamic pricing problem for multiple heterogeneous consumers with reference price effects, working paper, 2023.
-3. Qu, Guangtai; Wu Junhao; Lu Cheng; Deng, Zhibin; Liu Ya-Feng. A mixed-integer semidefinite relaxation for AC optimal transmission switching, submitted to IEEE Transactions on Power Systems, 2023. 
-
+2. Qu, Guangtai; Wu Junhao; Lu Cheng; Deng, Zhibin; Liu Ya-Feng. A mixed-integer semidefinite relaxation for AC optimal transmission switching, submitted to IEEE Transactions on Power Systems, 2023.
 
 ## Presentations
 1. 2024年10月，贵阳，中国运筹学会第17届年会，Reformulations of Quadratic Separable Optimization Problems with Symmetric Structures via Variable Aggregation, 专题邀请报告
