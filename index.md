@@ -49,7 +49,7 @@ Introduction to Operations Research 2018
 5. 中国科学院大学青年启动基金, 二次优化问题的非凸0-1松弛, 2015/01-2016/12, 5.0万元, 已结题, 主持.
 6. 国家自然科学基金面上项目, 12171151, 非凸稀疏二次优化问题的全局优化方法研究, 2022-01-01至2025-12-31, 51万元, 在研, 参与.
 7. 国家自然科学基金重大项目, T2293774, 国家和社会数据安全治理的智能方法, 2023-01-01至2027-12-31, 20万, 在研, 参与.
-8. 中国科学院大学数字经济监测预测预警与政策仿真教育部哲学社会科学实验室（培育）子课题, 5万, 在研, 主持.
+8. 中国科学院大学数字经济监测预测预警与政策仿真教育部哲学社会科学实验室（培育）子课题, 5万, 已结题, 主持.
 
 ## Awards
 1. Excellent Course Award for the course "Optimization and Simulation Methods in Finance" in 2022, UCAS.
@@ -103,10 +103,15 @@ Introduction to Operations Research 2018
 36. Deng, Zhi-Bin; Tian, Ye; Lu, Cheng; Xing, Wen-Xun. [Globally solving quadratic programs with convex objective and complementarity constraints via completely positive programming](http://www.aimsciences.org/article/id/57e2f3dd-8006-47b7-9cc0-e8ae4f4d8f67), *Journal of Industrial & Management Optimization*, 14(2):625-638, 2018.
 37. Lu, Cheng; Deng, Zhibin; Zhou, Jing; Guo, Xiaoling. [A sensitive-eigenvector based global algorithm for quadratically constrained quadratic programming](https://link.springer.com/article/10.1007/s10898-018-0726-y), *Journal of Global Optimization*, 73(2):371-388, 2019.
 
+## 中文论文
+1. 谭宇霄, 彭博, 邓智斌, 王宇, 李莉. 基于连续凸近似的多阶段弹道重规划求解算法. 宇航总体技术, 8(6):1-9. 2024年11月.
+2. 吴宏旭, 邓智斌, 王俏. 金融信息神经网络 —— 基于 A 股市场的实证研究. 系统工程理论与实践. 2024年, 待发表.
 
 ## Working Paper
 1. Chen, Xin; Hu, Zhenyu; Deng, Zhibin. Dynamic pricing problem for multiple heterogeneous consumers with reference price effects, working paper, 2023.
 2. Qu, Guangtai; Wu Junhao; Lu Cheng; Deng, Zhibin; Liu Ya-Feng. A mixed-integer semidefinite relaxation for AC optimal transmission switching, submitted to IEEE Transactions on Power Systems, 2023.
+3. Lu, Cheng; Qu, Guangtai; Wu, Junhao; Li, Shaoze; Deng, Zhibin; Fang, Shu-Cherng. Reformulations for separable quadratic optimization problems with symmetric structures via variable aggregation, submitted to *SIAM Journal on Optimization*, Nov. 2024.
+4. Li, Shaoze; Wu, Junhao; Lu, Cheng; Deng, Zhibin; Fang Shu-Cherng. An Efficient Solution Method for Solving Convex Separable Quadratic Optimization Problems, submmitted to *Pacific Journal on Optimization*, Dec. 2024. 
 
 ## Presentations
 1. 2024年10月，贵阳，中国运筹学会第17届年会，Reformulations of Quadratic Separable Optimization Problems with Symmetric Structures via Variable Aggregation, 专题邀请报告
