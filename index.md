@@ -116,7 +116,8 @@ Introduction to Operations Research 2018
 1. Chen, Xin; Hu, Zhenyu; Deng, Zhibin. Dynamic pricing problem for multiple heterogeneous consumers with reference price effects, working paper, 2023.
 2. Qu, Guangtai; Wu Junhao; Lu Cheng; Deng, Zhibin; Liu, Ya-Feng. A mixed-integer semidefinite relaxation for AC optimal transmission switching, submitted to IEEE Transactions on Power Systems, 2023.
 3. Lu, Cheng; Qu, Guangtai; Wu, Junhao; Li, Shaoze; Deng, Zhibin; Fang, Shu-Cherng. Reformulations for separable quadratic optimization problems with symmetric structures via variable aggregation, submitted to *SIAM Journal on Optimization*, Nov. 2024.
-4. Li, Shaoze; Wu, Junhao; Lu, Cheng; Deng, Zhibin; Fang Shu-Cherng. An Efficient Solution Method for Solving Convex Separable Quadratic Optimization Problems, submmitted to *Pacific Journal on Optimization*, Dec. 2024. 
+4. Li, Shaoze; Wu, Junhao; Lu, Cheng; Deng, Zhibin; Fang Shu-Cherng. An Efficient Solution Method for Solving Convex Separable Quadratic Optimization Problems, submmitted to *Pacific Journal on Optimization*, Dec. 2024.
+5. Wu, Hongxu; Deng, Zhibin; Li, Jianping; Wang, Qiao. Enhancing Stock Return Prediction in the Chinese Market: A GAN-based Approach, submitted to *Research in International Business and Finance*, Sep. 2024.
 
 ## Presentations
 1. 2024年10月，贵阳，中国运筹学会第17届年会，Reformulations of Quadratic Separable Optimization Problems with Symmetric Structures via Variable Aggregation, 专题邀请报告
