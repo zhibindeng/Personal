@@ -29,6 +29,10 @@ M.S. in Operations Research, Tsinghua University, 2009
 B.S. in Applied Mathematics, Tsinghua University, 2007
 
 ## Teaching
+Optimization Theory, Model and Algorithms 2023, 2024
+
+Machine Learning for Finance, 2024
+
 Food Supply Chain Management 2021, 2022, 2023, 2024
 
 Data, Model, and Decision-Making  2017, 2021, 2022, 2023, 2024
@@ -116,9 +120,10 @@ Introduction to Operations Research 2018
 
 ## Presentations
 1. 2024年10月，贵阳，中国运筹学会第17届年会，Reformulations of Quadratic Separable Optimization Problems with Symmetric Structures via Variable Aggregation, 专题邀请报告
-2. 2023年10月，昆明，第二十一届中国工业与应用数学学会年会， Global Algorithms for Nonconvex Separable Quadratic Optimization with Symmetric Structures，分会报告
-3. 2023年8月，日本东京， CSIAM国际学术会议， New Semidefinite Relaxations for A Class of Complex Quadratic Programming，分会报告
-4. 2023年5月，成都，第十四届全国数学优化学术会， Global Algorithms for Nonconvex Separable Quadratic Optimization with Symmetric Structures，分会报告
-5. 2023年4月，长沙，第十六届运筹学年会， Global Algorithms for Nonconvex Separable Quadratic Optimization with Symmetric Structures，分会报告
-6. 2021年11月，北京，北京运筹协会学术年会， A Graphic Structure Based Branch and Bound Algorithm for Nonconvex Sparse Quadratic Optimization Problems，专题邀请报告
-7. 2020年10月，受Northern Illinois University工业工程系邀请，参加网上云会议，并做报告
+2. 2024年8月，沈阳，东北大学管理学院，Reformulations of Quadratic Separable Optimization Problems with Symmetric Structures via Variable Aggregation, 邀请报告
+3. 2023年10月，昆明，第二十一届中国工业与应用数学学会年会， Global Algorithms for Nonconvex Separable Quadratic Optimization with Symmetric Structures，分会报告
+4. 2023年8月，日本东京， CSIAM国际学术会议， New Semidefinite Relaxations for A Class of Complex Quadratic Programming，分会报告
+5. 2023年5月，成都，第十四届全国数学优化学术会， Global Algorithms for Nonconvex Separable Quadratic Optimization with Symmetric Structures，分会报告
+6. 2023年4月，长沙，第十六届运筹学年会， Global Algorithms for Nonconvex Separable Quadratic Optimization with Symmetric Structures，分会报告
+7. 2021年11月，北京，北京运筹协会学术年会， A Graphic Structure Based Branch and Bound Algorithm for Nonconvex Sparse Quadratic Optimization Problems，专题邀请报告
+8. 2020年10月，受Northern Illinois University工业工程系邀请，参加网上云会议，并做报告
