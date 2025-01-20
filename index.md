@@ -64,6 +64,7 @@ Introduction to Operations Research 2018
 
 
 ## Publication
+1. Wu, Hongxu; Deng, Zhibin; Li, Jianping; Wang, Qiao. Enhancing Stock Return Prediction in the Chinese Market: A GAN-based Approach, to appear in *Research in International Business and Finance*, January 2025. 
 1. Qu, Guangtai; Li, Shaoze; Deng, Zhibin; Lu, Cheng. [A fast global algorithm for multi-linearly constrained separable binary quadratic program](https://www.aimsciences.org/article/doi/10.3934/jimo.2024132), *Journal of Industrial and Management Optimization*, 21(2): 1456-1473, February 2025. 
 2. Xu, Yingzhe; Xu, Jintao; Lu, Cheng; Fang, Shu-Cherng; Deng, Zhibin. [A new global algorithm for homogeneous complex quadratic programming problems and applications](http://www.yokohamapublishers.jp/online-p/PJO/vol20/pjov20n4p667.pdf), *Pacific Journal of Optimization*, 20(4):667-682, October 2024.
 3. Liu, Yang-He; Xu, Ying-Zhe; Lu, Cheng; Deng, Zhibin. [A second-order cone relaxation-based branch-and-bound algorithm for complex quadratic programs on acyclic graphs](https://link.springer.com/article/10.1007/s40305-023-00506-z), *Journal of the Operations Research Society of China*, online first, 27 October 2023. 
@@ -114,11 +115,11 @@ Introduction to Operations Research 2018
 
 ## Working Paper
 1. Chen, Xin; Hu, Zhenyu; Deng, Zhibin. Dynamic pricing problem for multiple heterogeneous consumers with reference price effects, working paper, 2023.
-2. Qu, Guangtai; Wu Junhao; Lu Cheng; Deng, Zhibin; Liu, Ya-Feng. A mixed-integer semidefinite relaxation for AC optimal transmission switching, working paper, 2024.
+2. Qu, Guangtai; Wu, Junhao; Lu, Cheng; Deng, Zhibin; Liu, Ya-Feng. A mixed-integer semidefinite relaxation for AC optimal transmission switching, working paper, 2024.
 3. Lu, Cheng; Qu, Guangtai; Wu, Junhao; Li, Shaoze; Deng, Zhibin; Fang, Shu-Cherng. Reformulations for separable quadratic optimization problems with symmetric structures via variable aggregation, submitted to *SIAM Journal on Optimization*, Nov. 2024.
 4. Li, Shaoze; Wu, Junhao; Lu, Cheng; Deng, Zhibin; Fang Shu-Cherng. An Efficient Solution Method for Solving Convex Separable Quadratic Optimization Problems, submmitted to *Pacific Journal on Optimization*, Dec. 2024.
-5. Wu, Hongxu; Deng, Zhibin; Li, Jianping; Wang, Qiao. Enhancing Stock Return Prediction in the Chinese Market: A GAN-based Approach, submitted to *Research in International Business and Finance*, Sep. 2024.
-6. Lu, Cheng; Kang, Gaojian; Qu, Guangtai; Deng, Zhibin. Quadratic Convex Reformulations for a Class of Complex Quadratic Programming Problems, submitted to *Computational Optimization and Applications*, Oct. 2024. 
+5. Lu, Cheng; Kang, Gaojian; Qu, Guangtai; Deng, Zhibin. Quadratic Convex Reformulations for a Class of Complex Quadratic Programming Problems, submitted to *Computational Optimization and Applications*, Oct. 2024.
+6. Wu, Junhao; Li, Shaoze; Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng. Tightness of a variable aggregation based reformulation for a class of mixed-integer convex optimization problems with symmetric structures, working paper, Jan. 2025. 
 
 ## Conferences and Presentations
 1. 2024年10月，贵阳，中国运筹学会第17届年会，Reformulations of Quadratic Separable Optimization Problems with Symmetric Structures via Variable Aggregation, 专题邀请报告
