@@ -56,16 +56,16 @@ Introduction to Operations Research 2018
 8. 中国科学院大学数字经济监测预测预警与政策仿真教育部哲学社会科学实验室（培育）子课题, 5万, 已结题, 主持.
 
 ## Awards
-1. Excellent Course Award for the course "Optimization and Simulation Methods in Finance" in 2022, UCAS.
+1. Excellent Course Award for "Optimization and Simulation Methods in Finance" in 2022, 2023, 2025, UCAS.
 2. Zhu-Li-Yue-Hua Award for Excellent Faculty in 2022, UCAS. 
-3. Best Paper Award of Year 2017, Journal of Global Optimization.
-4. Excellent Course Award for the course "Financial Engineering" in 2019, School of Economics and Management, UCAS.
-5. Best Teaching Award of Year 2017, School of Economics and Management, UCAS.
+3. Best Paper Award of the Year 2017, Journal of Global Optimization.
+4. Excellent Course Award for "Financial Engineering" in 2019, School of Economics and Management, UCAS.
+5. Best Teaching Award of the Year 2017, School of Economics and Management, UCAS.
 
 
 ## Publication
 1. Wu, Hongxu; Deng, Zhibin; Li, Jianping; Wang, Qiao. [Enhancing stock return prediction in the Chinese market: A GAN-based approach](https://doi.org/10.1016/j.ribaf.2025.102760), *Research in International Business and Finance*, 75:102760, Mar. 2025.
-2. Lu, Cheng; Kang, Gaojian; Qu, Guangtai; Deng, Zhibin. [Quadratic convex reformulations for a class of complex quadratic programming problems](https://doi.org/10.1007/s10589-025-00672-1), *Computational Optimization and Applications*, 12 Mar. 2025.
+2. Lu, Cheng; Kang, Gaojian; Qu, Guangtai; Deng, Zhibin. [Quadratic convex reformulations for a class of complex quadratic programming problems](https://doi.org/10.1007/s10589-025-00672-1), *Computational Optimization and Applications*, 91(1):125-144, March 2025.
 3. Li, Shaoze; Wu, Junhao; Lu, Cheng; Deng, Zhibin; Fang Shu-Cherng. [An efficient solution method for solving convex separable quadratic optimization problems](https://doi.org/10.61208/pjo-2025-010), accepted by *Pacific Journal on Optimization*, Mar. 2025.
 4. Qu, Guangtai; Li, Shaoze; Deng, Zhibin; Lu, Cheng. [A fast global algorithm for multi-linearly constrained separable binary quadratic program](https://www.aimsciences.org/article/doi/10.3934/jimo.2024132), *Journal of Industrial and Management Optimization*, 21(2): 1456-1473, February 2025. 
 5. Xu, Yingzhe; Xu, Jintao; Lu, Cheng; Fang, Shu-Cherng; Deng, Zhibin. [A new global algorithm for homogeneous complex quadratic programming problems and applications](http://www.yokohamapublishers.jp/online-p/PJO/vol20/pjov20n4p667.pdf), *Pacific Journal of Optimization*, 20(4):667-682, October 2024.
