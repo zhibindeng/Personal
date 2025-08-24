@@ -119,10 +119,10 @@ Introduction to Operations Research 2018
 1. Chen, Xin; Hu, Zhenyu; Deng, Zhibin. Dynamic pricing problem for multiple heterogeneous consumers with reference price effects, working paper, 2023.
 2. Qu, Guangtai; Wu, Junhao; Lu, Cheng; Deng, Zhibin; Liu, Ya-Feng. A mixed-integer semidefinite relaxation for AC optimal transmission switching, working paper, 2024.
 3. Lu, Cheng; Qu, Guangtai; Wu, Junhao; Li, Shaoze; Deng, Zhibin; Fang, Shu-Cherng. Reformulations for separable quadratic optimization problems with symmetric structures via variable aggregation, submitted to *SIAM Journal on Optimization*, Nov. 2024.
-4. Wu, Junhao; Li, Shaoze; Lu, Cheng; Deng, Zhibin; Fang, Shu-Cherng. Tightness of a variable aggregation-based reformulation for a class of mixed-integer convex optimization problems with symmetric structures, working paper, Jan. 2025. 
+4. Lu, Cheng et al. Enhancing quadratic programming solvers via quadratic nonconvex reformulation, submitted to *INFORMS J. on Comput.*, Aug. 2025. 
 
 ## Conferences and Presentations
-1. 2025年8月，上海，Global Optimization Conference，Quadratic Nonconvex Reformulation: A New Paradigm for Enhancing Mixed Integer Quadratic Programming Solvers，分会报告
+1. 2025年8月，上海， Global Optimization Conference， Quadratic Nonconvex Reformulation: A New Paradigm for Enhancing Mixed Integer Quadratic Programming Solvers，分会报告
 2. 2025年7月，儋州，生产与运营管理国际会议（中国），Quadratic Nonconvex Reformulation: A New Paradigm for Enhancing Mixed Integer Quadratic Programming Solvers，分会报告
 3. 2025年7月，吉隆坡，马来亚大学，APRU Program Mentor
 4. 2024年10月，贵阳，中国运筹学会第17届年会，Reformulations of Quadratic Separable Optimization Problems with Symmetric Structures via Variable Aggregation，专题邀请报告
