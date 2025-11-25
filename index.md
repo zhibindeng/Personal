@@ -111,9 +111,9 @@ Introduction to Operations Research 2018
 45. Luo, Jian; Deng, Zhibin; Bulatov, Dimitri; Lavery, John E; Fang, Shu-Cherng. Comparison of an L1-regression-based and a RANSAC-based planar segmentation procedure for urban terrain data with many outliers, *Image and Signal Processing for Remote Sensing XIX*, 8892:09, 2013.
 
 ## 中文论文
-1. 谭宇霄, 彭博, 邓智斌, 王宇, 李莉. 基于连续凸近似的多阶段弹道重规划求解算法. 宇航总体技术, 8(6):1-9. 2024年11月. [知网](https://read.cnki.net/web/Journal/Article/YHZJ202406001.html)
-2. 吴宏旭, 房勇, 邓智斌. A股市场的隐性因子模型——基于特征排序框架的深度学习. 系统科学与数学. 2024年. [DOI](https://doi.org/10.12341/jssms240199)
-3. 吴宏旭, 邓智斌, 王俏. 金融信息神经网络——基于A股市场的实证研究. 系统工程理论与实践. 2024年, 待发表.
+1. 吴宏旭, 房勇, 邓智斌. [A股市场的隐性因子模型——基于特征排序框架的深度学习](https://doi.org/10.12341/jssms240199). 系统科学与数学, 45(8):2447-2465. 2025年.
+2. 谭宇霄, 彭博, 邓智斌, 王宇, 李莉. 基于连续凸近似的多阶段弹道重规划求解算法. 宇航总体技术, 8(6):1-9. 2024年11月. [知网](https://read.cnki.net/web/Journal/Article/YHZJ202406001.html)
+3. 吴宏旭, 邓智斌, 王俏. 金融信息神经网络——基于A股市场的实证研究. 系统工程理论与实践. 2025年, 待发表.
 
 ## Working Paper
 1. Chen, Xin; Hu, Zhenyu; Deng, Zhibin. Dynamic pricing problem for multiple heterogeneous consumers with reference price effects, working paper, 2023.
