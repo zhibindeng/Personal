@@ -66,7 +66,7 @@ Introduction to Operations Research 2018
 
 
 ## Publication
-1. Wu, Hongxu; Deng, Zhibin; Li, Jianping; Wang, Qiao. [Enhancing stock return prediction in the Chinese market: A GAN-based approach](https://doi.org/10.1016/j.ribaf.2025.102760), *Research in International Business and Finance*, 75:102760, Mar. 2025.
+1. Wu, Hongxu; Wang, Qiao; Deng, Zhibin; Li, Jianping. [Enhancing stock return prediction in the Chinese market: A GAN-based approach](https://doi.org/10.1016/j.ribaf.2025.102760), *Research in International Business and Finance*, 75:102760, Mar. 2025.
 2. Lu, Cheng; Kang, Gaojian; Qu, Guangtai; Deng, Zhibin. [Quadratic convex reformulations for a class of complex quadratic programming problems](https://doi.org/10.1007/s10589-025-00672-1), *Computational Optimization and Applications*, 91(1):125-144, March 2025.
 3. Li, Shaoze; Wu, Junhao; Lu, Cheng; Deng, Zhibin; Fang Shu-Cherng. [An efficient solution method for solving convex separable quadratic optimization problems](https://doi.org/10.61208/pjo-2025-010), accepted by *Pacific Journal on Optimization*, Mar. 2025.
 4. Qu, Guangtai; Li, Shaoze; Deng, Zhibin; Lu, Cheng. [A fast global algorithm for multi-linearly constrained separable binary quadratic program](https://www.aimsciences.org/article/doi/10.3934/jimo.2024132), *Journal of Industrial and Management Optimization*, 21(2): 1456-1473, February 2025. 
