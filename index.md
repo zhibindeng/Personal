@@ -1,4 +1,4 @@
-<img width="1344" height="1288" alt="image" src="https://github.com/user-attachments/assets/dc2e1583-8b4f-4c6e-b7ad-098ed9bb3680" />## Zhibin Deng (邓智斌)
+## Zhibin Deng (邓智斌)
 Tenure-Track Assistant Professor
 
 School of Economics and Management Sciences 
@@ -15,14 +15,14 @@ Email: zhibindeng@ucas.edu.cn
 
 I’m an associate professor of the School of Economics and Management at the University of Chinese Academy of Sciences, Beijing. 
 
-I received my Ph.D. from the Industrial and System Engineering (ISE) department at North Carolina State University in December 2013. 
+I received my Ph.D. from the Industrial and Systems Engineering (ISE) department at North Carolina State University in December 2013. 
 
 Recently, I’ve been interested in various approaches to making data-driven decisions in the context of revenue management, including dynamic programming and machine learning.
 
 My research is also broadly related to mathematical optimization.
 
 ## Education
-Ph.D. in Industrial and System Engineering, North Carolina State University, 2013
+Ph.D. in Industrial and Systems Engineering, North Carolina State University, 2013
 
 M.S. in Operations Research, Tsinghua University, 2009
 
