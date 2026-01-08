@@ -115,7 +115,7 @@ Introduction to Operations Research 2018
 ## 中文论文
 1. 吴宏旭, 房勇, 邓智斌. [A股市场的隐性因子模型——基于特征排序框架的深度学习](https://doi.org/10.12341/jssms240199). 系统科学与数学, 45(8):2447-2465. 2025年.
 2. 谭宇霄, 彭博, 邓智斌, 王宇, 李莉. 基于连续凸近似的多阶段弹道重规划求解算法. 宇航总体技术, 8(6):1-9. 2024年11月. [知网](https://read.cnki.net/web/Journal/Article/YHZJ202406001.html)
-3. 吴宏旭, 邓智斌, 王俏. 金融信息神经网络——基于A股市场的实证研究. 系统工程理论与实践. 2025年, 待发表.
+3. 吴宏旭, 邓智斌, 王俏. 金融信息神经网络——基于A股市场的实证研究. 系统工程理论与实践, 45(12):3960-3978. 2025年12月. [知网](https://kns.cnki.net/kcms2/article/abstract?v=yqBhao7Q9gydrpPCQ9hQebptjYVNFCQk_YZk6ms-3mbqKIkQeb6yQ-5x0oCLMZjUa4nZsdS3nCdz5snWMOABbFZxhfWlm8i9UDjl6sAIvaeHXVe6ZiVOSwz3_pGFWhkW7vXyZ5Saw5RFqfn5McX_dtPQNR5Fd4YL&uniplatform=NZKPT)
 
 ## Working Paper
 1. Chen, Xin; Hu, Zhenyu; Deng, Zhibin. Dynamic pricing problem for multiple heterogeneous consumers with reference price effects, working paper, 2023.
