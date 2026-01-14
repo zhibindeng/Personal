@@ -127,17 +127,17 @@ Introduction to Operations Research 2018
 7. 吴宏旭等. 中国证券市场的特征重要度——基于神经网络梯度的假设建议, 2025.
 
 ## Conferences and Presentations
-1. 2025年8月，上海， Global Optimization Conference， Quadratic Nonconvex Reformulation: A New Paradigm for Enhancing Mixed Integer Quadratic Programming Solvers，分会报告
-2. 2025年7月，儋州，生产与运营管理国际会议（中国），Quadratic Nonconvex Reformulation: A New Paradigm for Enhancing Mixed Integer Quadratic Programming Solvers，分会报告
+1. 2025年8月8日-12日，上海， Global Optimization Conference， Quadratic Nonconvex Reformulation: A New Paradigm for Enhancing Mixed Integer Quadratic Programming Solvers，分会报告
+2. 2025年7月11日至14日，儋州，生产与运营管理国际会议（中国），Quadratic Nonconvex Reformulation: A New Paradigm for Enhancing Mixed Integer Quadratic Programming Solvers，分会报告
 3. 2025年7月，吉隆坡，马来亚大学，APRU Program Mentor
-4. 2025年6月，北京，第45届国际预测大会，Finance-Informed Neural Networks--Interpretable Deep Learning Model for Financial Forecasting，分会报告
-5. 2024年10月，贵阳，中国运筹学会第17届年会，Reformulations of Quadratic Separable Optimization Problems with Symmetric Structures via Variable Aggregation，专题邀请报告
+4. 2025年6月29日至7月2日，北京，第45届国际预测大会，Finance-Informed Neural Networks--Interpretable Deep Learning Model for Financial Forecasting，分会报告
+5. 2024年10月18日至21日，贵阳，中国运筹学会第17届年会，Reformulations of Quadratic Separable Optimization Problems with Symmetric Structures via Variable Aggregation，专题邀请报告
 6. 2024年8月，沈阳，东北大学管理学院，Reformulations of Quadratic Separable Optimization Problems with Symmetric Structures via Variable Aggregation，邀请报告
 7. 2024年6月，上海，华东理工大学，访问交流郭磊教授
-8. 2024年3月，北京，第三届智能与决策优化前沿论坛
-9. 2023年10月，昆明，第二十一届中国工业与应用数学学会年会， Global Algorithms for Nonconvex Separable Quadratic Optimization with Symmetric Structures，分会报告
+8. 2024年3月22日至24日，北京，第三届智能与决策优化前沿论坛
+9. 2023年10月，昆明，第二十一届中国工业与应用数学学会年会，A New Global Algorithm for Max-Cut Problem with Chordal Sparsity，分会报告
 10. 2023年8月，日本东京， ICIAM国际学术会议， New Semidefinite Relaxations for A Class of Complex Quadratic Programming，分会报告
-11. 2023年5月，成都，第十四届全国数学优化学术会， Global Algorithms for Nonconvex Separable Quadratic Optimization with Symmetric Structures，分会报告
+11. 2023年5月，成都，第十四届全国数学优化学术会议， Global Algorithms for Nonconvex Separable Quadratic Optimization with Symmetric Structures，分会报告
 12. 2023年4月，长沙，第十六届运筹学年会， Global Algorithms for Nonconvex Separable Quadratic Optimization with Symmetric Structures，分会报告
 13. 2021年11月，北京，北京运筹协会学术年会， A Graphic Structure Based Branch and Bound Algorithm for Nonconvex Sparse Quadratic Optimization Problems，专题邀请报告
 14. 2020年10月，受Northern Illinois University工业工程系邀请，参加网上云会议，并做报告
