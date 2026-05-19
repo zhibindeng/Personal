@@ -66,7 +66,7 @@ Introduction to Operations Research 2018
 
 
 ## Publication
-1. Qu, Guangtai; Lu, Cheng; Wu, Junhao; Li, Shaoze; Deng, Zhibin; Fang, Shu-Cherng. Reformulations for separable quadratic optimization problems with symmetric structures via variable aggregation, *Journal of Optimization Theory and Applications*, 209, article No. 71, May 2026.
+1. Qu, Guangtai; Lu, Cheng; Wu, Junhao; Li, Shaoze; Deng, Zhibin; Fang, Shu-Cherng. [Reformulations for separable quadratic optimization problems with symmetric structures via variable aggregation](https://doi.org/10.1007/s10957-026-03016-z), *Journal of Optimization Theory and Applications*, 209, article No. 71, May 2026.
 2. Liu, Yang-He; Xu, Ying-Zhe; Lu, Cheng; Deng, Zhibin. [A second-order cone relaxation-based branch-and-bound algorithm for complex quadratic programs on acyclic graphs](https://link.springer.com/article/10.1007/s40305-023-00506-z), *Journal of the Operations Research Society of China*, 13(4):989–1017, December 2025. 
 3. Wu, Hongxu; Wang, Qiao; Li, Jianping; Deng, Zhibin. [Enhancing stock return prediction in the Chinese market: A GAN-based approach](https://doi.org/10.1016/j.ribaf.2025.102760), *Research in International Business and Finance*, 75:102760, March 2025.
 4. Lu, Cheng; Kang, Gaojian; Qu, Guangtai; Deng, Zhibin. [Quadratic convex reformulations for a class of complex quadratic programming problems](https://doi.org/10.1007/s10589-025-00672-1), *Computational Optimization and Applications*, 91(1):125-144, March 2025.
