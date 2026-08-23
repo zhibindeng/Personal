@@ -121,10 +121,9 @@ Introduction to Operations Research 2018
 ## Working Paper
 1. Chen, Xin; Hu, Zhenyu; Deng, Zhibin. Dynamic pricing problem for multiple heterogeneous consumers with reference price effects, working paper, 2023.
 2. Qu, Guangtai; Wu, Junhao; Lu, Cheng; Deng, Zhibin; Liu, Ya-Feng. A mixed-integer semidefinite relaxation for AC optimal transmission switching, working paper, 2024.
-4. Lu, Cheng et al. Enhancing quadratic programming solvers via quadratic nonconvex reformulation, submitted to *INFORMS J. on Comput.*, Aug. 2025.
-5. Wu, Hongxu, et al. Causal Feature Selection and Stock Return Direction Predictability: Evidence from China, submitted to *Pacific-Basin Finance Journal*, Nov. 2025.
-6. Wu, Hongxu, et al. Enhancing Stock Return Prediction in the Chinese Market: A GAN-based Approach, submitted to *Financial Research Letters*, Nov. 2025.
-7. 吴宏旭等. 中国证券市场的特征重要度——基于神经网络梯度的假设建议, 2025.
+3. Lu, Cheng et al. Enhancing quadratic programming solvers via quadratic nonconvex reformulation, submitted to *Eur. J. Oper. Res.*, Aug. 2025.
+4. Wu, Hongxu, et al. Causal Feature Selection and Stock Return Direction Predictability: Evidence from China, submitted to *Pacific-Basin Finance Journal*, Nov. 2025.
+5. 吴宏旭等. 中国证券市场的特征重要度——基于神经网络梯度的假设检验, 2025.
 
 ## Conferences and Presentations
 1. 2025年8月8日-12日，上海， Global Optimization Conference， Quadratic Nonconvex Reformulation: A New Paradigm for Enhancing Mixed Integer Quadratic Programming Solvers，分会报告
