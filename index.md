@@ -68,7 +68,7 @@ Introduction to Operations Research 2018
 
 
 ## Publication
-1. Li, Shaoze; Wu, Junhao; Wu, Hongxu; Huang, Bin; Liu, Jiangguan; Li, Ziwei; Deng, Zhibin. [Efficient mixed-integer modeling for energy storage systems with symmetric structures: Aggregation and disjoint interval reformulation](https://doi.org/10.1016/j.est.2026.125463), *Journal of Energy Storage*, 183(D):125463, January 2027.
+1. Li, Shaoze; Wu, Junhao; Wu, Hongxu; Huang, Bin; Liu, Jiangguan; Li, Ziwei; Deng, Zhibin*. [Efficient mixed-integer modeling for energy storage systems with symmetric structures: Aggregation and disjoint interval reformulation](https://doi.org/10.1016/j.est.2026.125463), *Journal of Energy Storage*, 183(D):125463, January 2027.
 2. Wu, Hongxu; Deng, Zhibin*; Li, Shaoze. [Testing characteristics importance with neural network gradients: Evidence from the China A-share market](https://doi.org/10.1016/j.frl.2026.109856), *Finance Research Letters*, 99:109856, June 2026.
 3. Qu, Guangtai; Lu, Cheng; Wu, Junhao; Li, Shaoze; Deng, Zhibin*; Fang, Shu-Cherng. [Reformulations for separable quadratic optimization problems with symmetric structures via variable aggregation](https://doi.org/10.1007/s10957-026-03016-z), *Journal of Optimization Theory and Applications*, 209, article No. 71, May 2026.
 4. Liu, Yang-He; Xu, Ying-Zhe; Lu, Cheng*; Deng, Zhibin. [A second-order cone relaxation-based branch-and-bound algorithm for complex quadratic programs on acyclic graphs](https://link.springer.com/article/10.1007/s40305-023-00506-z), *Journal of the Operations Research Society of China*, 13(4):989–1017, December 2025. 
